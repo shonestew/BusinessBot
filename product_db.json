@@ -1,0 +1,18 @@
+{
+    "diapers": [
+        {
+            "diapers_shark": "Подгузник 1",
+            "id": "diapers1"
+        },
+        {
+            "diapers_shark": "Подгузник 2",
+            "id": "diapers2"
+        }
+    ],
+    "sneck": [
+        {
+            "sneck1": "Чипсы лейс",
+            "sneck2": "Соленые огурцы"
+        }
+    ]
+}
