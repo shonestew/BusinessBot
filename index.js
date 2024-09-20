@@ -14,7 +14,7 @@ const buttons_diapers = buttonData.diapers.map(but =>
 
 // Хранение временных данных с корзины и айди чата
 let cart = {};
-let adminChat = '6517910966';
+let adminChat = '1234567890';
 
 // Я незнаю как это описать.
 const bot = new Telegraf(process.env.BOT_TOKEN);
