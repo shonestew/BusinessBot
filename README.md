@@ -1,2 +1,2 @@
 # BusinessBot
-Bot for shop
+Bot for shop with using Telegraf framework
